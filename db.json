@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "sername": "Иванов",
+      "name": "Иван",
+      "fatherName": "Иванович",
+      "email": "mail1@mail.com",
+      "login": "user1",
+      "id": "f2714068-99b8-4512-8a64-e515c9ff5666"
+    },
+    {
+      "sername": "Петров",
+      "name": "Петр",
+      "fatherName": "Сергеевич",
+      "email": "mail2@mail.com",
+      "login": "user2",
+      "id": "863d3217-1a57-467a-9e8b-d6982fb1dfef"
+    },
+    {
+      "sername": "Сергеев",
+      "name": "Григорий",
+      "fatherName": "Викторович",
+      "email": "mail3@mail.com",
+      "login": "user3",
+      "id": "fb7be4f6-fcc3-458f-b35c-4371e65000c0"
+    },
+    {
+      "sername": "Федоров",
+      "name": "Виктор",
+      "fatherName": "Федорович",
+      "email": "mail4@mail.com",
+      "login": "user4",
+      "id": "de40640d-851d-41a7-a5db-0dd9ff2dcb9d"
+    },
+    {
+      "sername": "Хвастунов",
+      "name": "Сергей",
+      "fatherName": "Петрович",
+      "email": "mail5@mail.com",
+      "login": "user5",
+      "id": "6142d62a-6cf8-4c8f-bba4-b9d76f982528"
+    },
+    {
+      "sername": "Григорьев",
+      "name": "Федор",
+      "fatherName": "Григорьевич",
+      "email": "mail6@mail.com",
+      "login": "user6",
+      "id": "9fc25433-77fc-4999-a208-c3087ea8398f"
+    }
+  ],
+  "auth": {
+    "login": "testLogin",
+    "password": "test123"
+  }
+}
